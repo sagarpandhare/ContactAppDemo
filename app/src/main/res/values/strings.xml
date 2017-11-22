@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string name="editTextName">Name</string>
+    <string name="editTextNumber">Number</string>
+</resources>
